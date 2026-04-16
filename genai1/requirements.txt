@@ -28,3 +28,36 @@ psycopg2-binary
 
 # PDF Generation (reports / citations)
 reportlab
+
+stres# ================= PostgreSQL config =================
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=docqa
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=54321
+
+
+# ================= RAG / Groq config =================
+GROQ_API_KEY=xxx
+GROQ_BASE_URL=https://api.groq.com/openai/v1
+GROQ_MODEL=llama-3.1-8b-instant
+
+
+# ================= Embedding model =================
+EMBEDDING_MODEL=all-MiniLM-L6-v2
+
+
+# ================= Uploads =================
+UPLOAD_DIR=./uploaded_docs
+
+
+# ================= Defaults =================
+TOP_K_RESULTS=5
+CONFIDENCE_THRESHOLD=0.15
+FALLBACK_MAX_TOKENS=500
+
+
+# ================= Optional Redis (commented) =================
+# REDIS_HOST=localhost
+# REDIS_PORT=6379
+# REDIS_DB=0
