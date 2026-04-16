@@ -1,0 +1,1038 @@
+[
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "[Paragraph 1]\n4. Who Should Be Using Flutter?\n\n[Paragraph 3]\nFlutter is suitable for everyone, whether you are working in a company or building apps just for learning or fun. Anyone who wants to develop modern applications should consider using Flutter with Dart for their next project.\n\n[Paragraph 5]\n1.4.1 Teams, Project Leads, and CTOs\n\n[Paragraph 7]\nFlutter is very useful for companies and development teams because it:\n\n[Paragraph 8]\nIncreases productivity\n\n[Paragraph 9]\nImproves collaboration\n\n[Paragraph 10]\nReduces development effort\n\n[Paragraph 12]\nTraditional Problem:\n\n[Paragraph 14]\nBefore Flutter, companies had to:\n\n[Paragraph 15]\nBuild separate apps for:\n\n[Paragraph 16]\nWeb\n\n[Paragraph 17]\niOS\n\n[Paragraph 18]\nAndroid"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 1,
+    "page": 1,
+    "text": "ragraph 15]\nBuild separate apps for:\n\n[Paragraph 16]\nWeb\n\n[Paragraph 17]\niOS\n\n[Paragraph 18]\nAndroid [Paragraph 20]\nEach platform needed a different team with different skills\n\n[Paragraph 21]\nThese teams found it difficult to work together\n\n[Paragraph 23]\nHow Flutter Solves This:\n\n[Paragraph 25]\nWith Flutter, one single team can build apps for:\n\n[Paragraph 27]\nWeb\n\n[Paragraph 28]\niOS\n\n[Paragraph 29]\nAndroid\n\n[Paragraph 31]\nAll developers use the same tools and skills.\n\n[Paragraph 32]\nThis makes collaboration easy and fast.\n\n[Paragraph 33]\nSo, for team leaders and CTOs, Flutter is an ideal choice to reduce cost, time, and effort.\n\n[Paragraph 35]\n1.4.2 Individual Developers\n\n[Paragraph 37]\nFlutter is also perfect for individual developers."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "h 35]\n1.4.2 Individual Developers\n\n[Paragraph 37]\nFlutter is also perfect for individual developers. [Paragraph 38]\nDevelopers often want to start new projects quickly\n\n[Paragraph 40]\nMany times, projects fail due to:\n\n[Paragraph 41]\nComplex setup.. Too many tools, SDKs, configurations, and files to manage.\n\n[Paragraph 42]\nLong configuration process.. Setting up Android Studio, dependencies, and UI files can take a lot of time in other frameworks.\n\n[Paragraph 44]\nFlutter Advantage:\n\n[Paragraph 46]\nFlutter has:\n\n[Paragraph 47]\nEasy setup\n\n[Paragraph 48]\nFast development\n\n[Paragraph 49]\nQuick testing\n\n[Paragraph 51]\nIf a developer wants to build:\n\n[Paragraph 53]\nA prototype\n\n[Paragraph 54]\nAn MVP (Minimum Viable Product)\n\n[Paragraph 55]\nFlutter helps to build and test ideas quickly"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 3,
+    "page": 1,
+    "text": "ph 54]\nAn MVP (Minimum Viable Product)\n\n[Paragraph 55]\nFlutter helps to build and test ideas quickly [Paragraph 57]\nSo, Flutter is ideal for developers who want to experiment and build fast.\n\n[Paragraph 59]\n1.4.3 Code School Students and Recent CS Graduates\n\n[Paragraph 61]\nToday, many students complete coding courses, which means:\n\n[Paragraph 62]\nThere is high competition for entry-level jobs\n\n[Paragraph 64]\nWhat Makes a Student Stand Out?\n\n[Paragraph 65]\nHaving a strong portfolio(projects, assignments, achievements)\n\n[Paragraph 66]\nHaving a published mobile app\n\n[Paragraph 68]\nFlutter helps students because:\n\n[Paragraph 69]\nOne app can work on both Android and iOS\n\n[Paragraph 70]\nIt is easier than ever to publish real apps"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "One app can work on both Android and iOS\n\n[Paragraph 70]\nIt is easier than ever to publish real apps [Paragraph 71]\nStudents can show real users and real projects in their resume\n\n[Paragraph 72]\nSo, Flutter is highly recommended for:\n\n[Paragraph 74]\nStudents\n\n[Paragraph 75]\nFresh computer science graduates\n\n[Paragraph 77]\n1.4.4 Open Source Developers\n\n[Paragraph 79]\nFlutter and Dart are:\n\n[Paragraph 80]\nOpen source\n\n[Paragraph 81]\nTheir:\n\n[Paragraph 82]\nTools\n\n[Paragraph 83]\nLibraries\n\n[Paragraph 84]\nFrameworks are all open source\n\n[Paragraph 86]\nThis means:\n\n[Paragraph 88]\nDevelopers can:\n\n[Paragraph 90]\nModify the code\n\n[Paragraph 91]\nContribute to Flutter\n\n[Paragraph 92]\nBuild their own tools\n\n[Paragraph 94]\nSo, Flutter is best for open-source contributors."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 5,
+    "page": 2,
+    "text": "aragraph 92]\nBuild their own tools\n\n[Paragraph 94]\nSo, Flutter is best for open-source contributors. [Paragraph 96]\n1.4.5 People Who Value Speed\n\n[Paragraph 98]\nFlutter is for people who want:\n\n[Paragraph 100]\nFast development\n\n[Paragraph 101]\nFast app performance\n\n[Paragraph 102]\nFast updates\n\n[Paragraph 104]\nWhy Flutter is Fast:\n\n[Paragraph 106]\nHot Reload:\n\n[Paragraph 108]\nShows changes instantly\n\n[Paragraph 109]\nQuick code writing\n\n[Paragraph 110]\nSub-second rebuild time - The app’s UI can rebuild (refresh) in less than one second.\n\n[Paragraph 112]\nDart Adds More Speed:\n\n[Paragraph 114]\nDart is:\n\n[Paragraph 115]\nStrictly typed\n\n[Paragraph 116]\nFully featured\n\n[Paragraph 118]\nIt helps:\n\n[Paragraph 120]\nReduce errors\n\n[Paragraph 121]\nDebug faster\n\n[Paragraph 122]\nAvoid repeated problems"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 6,
+    "page": 2,
+    "text": "[Paragraph 120]\nReduce errors\n\n[Paragraph 121]\nDebug faster\n\n[Paragraph 122]\nAvoid repeated problems [Paragraph 124]\nSo, Flutter is best for people who want speed without losing quality.\n\n[Paragraph 126]\n1.4.6 People Who Are “Lazy” (Smart Developers)\n\n[Paragraph 128]\nHere, “lazy” means smart developers who don’t want to redo solved problems.\n\n[Paragraph 130]\nFlutter gives:\n\n[Paragraph 131]\nA large collection of ready-made widgets\n\n[Paragraph 132]\nMaterial Design components already built\n\n[Paragraph 133]\nReady solutions for:\n\n[Paragraph 135]\nNavigation drawer\n\n[Paragraph 136]\nButtons\n\n[Paragraph 137]\nLayouts\n\n[Paragraph 138]\nUI components\n\n[Paragraph 140]\nSo developers:\n\n[Paragraph 142]\nDon’t waste time on UI design\n\n[Paragraph 143]\nCan focus on business logic"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "elopers:\n\n[Paragraph 142]\nDon’t waste time on UI design\n\n[Paragraph 143]\nCan focus on business logic [Paragraph 144]\nCan make their app unique\n\n[Paragraph 146]\n1.4.7 People Who Value Control\n\n[Paragraph 148]\nFlutter also gives full control to developers.\n\n[Paragraph 150]\nEvery part of the framework is open to customization\n\n[Paragraph 152]\nIf needed, developers can:\n\n[Paragraph 154]\nWrite custom rendering\n\n[Paragraph 155]\nControl animations\n\n[Paragraph 156]\nModify any layer of the app\n\n[Paragraph 158]\nSo, Flutter is best for developers who want:\n\n[Paragraph 160]\nFull flexibility\n\n[Paragraph 161]\nDeep customization\n\n[Paragraph 162]\nComplete control over the app\n\n[Paragraph 164]\n1.6 Other Mobile Development Options"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 8,
+    "page": 3,
+    "text": "[Paragraph 162]\nComplete control over the app\n\n[Paragraph 164]\n1.6 Other Mobile Development Options [Paragraph 166]\nBefore discussing Flutter as a choice, it is important to understand that developers should always think carefully before selecting any technology. Every tool has different strengths, and no single tool is perfect for all situations. Flutter also is not the correct answer 100% of the time. Therefore, knowing the alternatives helps you decide which method fits your project.\n\n[Paragraph 168]\n1.6.1 Native Development (iOS and Android)\n\n[Paragraph 170]\nThe first option is building native apps for iOS and Android.\n\n[Paragraph 172]\nThis method provides:\n\n[Paragraph 174]\nMaximum control\n\n[Paragraph 175]\nBest debugging tools\n\n[Paragraph 176]\nBest performance"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 9,
+    "page": 3,
+    "text": "ragraph 174]\nMaximum control\n\n[Paragraph 175]\nBest debugging tools\n\n[Paragraph 176]\nBest performance [Paragraph 179]\nHowever, the drawback is that you must write everything twice—once for Android and once for iOS.\n\n[Paragraph 180]\nIn companies, this usually means having separate developers for each platform.\n\n[Paragraph 181]\nThese teams have different skill sets, and they cannot easily help each other because the codebases are different.\n\n[Paragraph 183]\n1.6.2 Cross-Platform JavaScript Options\n\n[Paragraph 185]\nThe second option is using cross-platform tools that are based on JavaScript, such as:\n\n[Paragraph 187]\nWeb views\n\n[Paragraph 188]\nReact Native\n\n[Paragraph 190]\nThese are not bad choices.\n\n[Paragraph 191]\nIn fact, they remove many of the problems faced in native development."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "bad choices.\n\n[Paragraph 191]\nIn fact, they remove many of the problems faced in native development. [Paragraph 192]\nMost frontend web developers already know JavaScript, so they can easily help create mobile apps.\n\n[Paragraph 193]\nThis is why companies like Airbnb, Facebook, and Twitter have used React Native for major products.\n\n[Paragraph 194]\nHowever, these approaches also have disadvantages.\n\n[Paragraph 195]\nThe biggest issue is something called the JavaScript bridge.\n\n[Paragraph 197]\nHow the JavaScript Bridge Works\n\n[Paragraph 199]\nThe earliest mobile apps built using cross-platform ideas were simply web pages running inside WebKit (a browser engine).\n\n[Paragraph 200]\nThese were basically embedded websites."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 11,
+    "page": 3,
+    "text": "s running inside WebKit (a browser engine).\n\n[Paragraph 200]\nThese were basically embedded websites. [Paragraph 201]\nThe main problem with this approach was that manipulating the DOM was slow, expensive  and not suitable for high-quality mobile experiences.\n\n[Paragraph 202]\nNewer platforms improved this by creating a JavaScript bridge.\n\n[Paragraph 203]\nThe bridge lets JavaScript talk directly to native code.\n\n[Paragraph 204]\nAlthough this solves some issues, it still has limitations.\n\n[Paragraph 206]\nWhenever your app needs to communicate with the device’s rendering system, the JavaScript code must be compiled and sent across the bridge to native code.\n\n[Paragraph 207]\nIn a single interaction, this crossing happens twice:\n\n[Paragraph 209]\n1. From the platform to the apps"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "a single interaction, this crossing happens twice:\n\n[Paragraph 209]\n1. From the platform to the apps [Paragraph 210]\n2. From the app back to the platform\n\n[Paragraph 212]\nFlutter’s Advantage Over JavaScript-Based Tools\n\n[Paragraph 214]\nFlutter compiles directly to ARM native code, which is the type of code used by processors in modern phones, wearables, and IoT devices.\n\n[Paragraph 215]\nFlutter also has its own rendering engine.\n\n[Paragraph 217]\nThis means:\n\n[Paragraph 219]\nThe app runs natively\n\n[Paragraph 220]\nIt does not need to cross any JavaScript bridge\n\n[Paragraph 221]\nIt communicates directly with the device\n\n[Paragraph 222]\nIt controls every pixel on the screen\n\n[Paragraph 224]\nBecause there is no bridge, debugging is easier, and interactions are faster."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 13,
+    "page": 4,
+    "text": "creen\n\n[Paragraph 224]\nBecause there is no bridge, debugging is easier, and interactions are faster. [Paragraph 226]\n1.7 The Immediate Benefits of Flutter\n\n[Paragraph 228]\nDevelopers often feel skeptical about new technologies.\n\n[Paragraph 229]\nTheir concerns are valid:\n\n[Paragraph 231]\nNew technologies may change quickly\n\n[Paragraph 232]\nThey may lack features\n\n[Paragraph 233]\nThey may not be widely used\n\n[Paragraph 234]\nCompanies may abandon them\n\n[Paragraph 236]\nHowever, Flutter avoids many of these problems.\n\n[Paragraph 238]\n1.7.1 No JavaScript Bridge\n\n[Paragraph 240]\nThe JavaScript bridge, which is used in most cross-platform frameworks, is a major bottleneck.\n\n[Paragraph 241]\nIt reduces performance and makes debugging difficult."
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 14,
+    "page": 4,
+    "text": "works, is a major bottleneck.\n\n[Paragraph 241]\nIt reduces performance and makes debugging difficult. [Paragraph 242]\nScrolling and animations may not feel smooth.\n\n[Paragraph 243]\nFlutter avoids this completely.\n\n[Paragraph 244]\nIt compiles to native code and uses the Skia engine (the same one used by Chrome) to render.\n\n[Paragraph 245]\nTherefore, Dart code does not need runtime translation.\n\n[Paragraph 246]\nThis gives excellent performance and productivity.\n\n[Paragraph 248]\n1.7.2 Compile Time\n\n[Paragraph 250]\nDevelopers coming from native development—especially iOS—know how slow compile times can be.\n\n[Paragraph 252]\nFlutter’s compile times are much faster:\n\n[Paragraph 253]\nA full compile usually takes less than 30 seconds"
+  },
+  {
+    "doc_id": "b9badbcfee8141899e4733d74a0e2c7c",
+    "source": "Notes Unit 1 (4,6).docx",
+    "chunk_index": 15,
+    "page": 4,
+    "text": "’s compile times are much faster:\n\n[Paragraph 253]\nA full compile usually takes less than 30 seconds [Paragraph 254]\nIncremental compiles take under a second, thanks to hot reload\n\n[Paragraph 255]\nThis makes development smoother and faster."
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "Personalized Learning Using Artificial\nIntelligence in Online Platforms\nBY\nSHADHIYA BEGUM S\nIII BCA B\nU23CA115"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 1,
+    "page": 2,
+    "text": "•AI studies student learning behavior\n•It tracks speed, accuracy, and mistakes\n•Content is adjusted for each student\n•Learning becomes more personalized\n•Students get questions based on their level\n•Videos are recommended automatically\n•Goal is to improve learning outcomes \nIntroduction to AI-Based Personalized Learning\nOnline learning platforms use Artificial Intelligence (AI)"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 2,
+    "page": 3,
+    "text": "How the Platform Uses AI for Personalization\n•AI collects student activity data\n•Monitors quiz scores and answers\n•Analyzes time taken to complete tasks\n•Identifies weak and strong topics\n•Detects common mistakes\n•Updates learning path continuously\n•Recommends suitable questions\n•Suggests related video lessons"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 3,
+    "page": 4,
+    "text": "AI Supporting Different\nTypes of LearnersSlow Learners\nProvides easier questions and repeated\nexplanations\nOffers extra practice and beginner-friendly\ncontent\nAverage Learners\nMaintains balanced difficulty levels\nReinforces concepts with regular feedback\nFast Learners\nProvides advanced questions quickly\nLimits repetition but may restrict\nexploration"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 4,
+    "page": 5,
+    "text": "Bias and Limitations of AI\nRecommendations\nAI depends only on past data\nMay wrongly label learner ability\nFast learners may feel bored\nSlow learners may feel underestimated\nRepeated content limits exploration\nCreativity may be reduced\nLearning paths become fixed\nEqual opportunities may be affected"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 5,
+    "page": 6,
+    "text": "Impact on Learning\nOpportunitiesStudents follow AI-decided paths\nLess exposure to new topics\nOver-personalization reduces choice\nLearners may lose curiosity\nDependence on AI increases\nHuman judgment is missing\nDiverse learning styles are ignored\nGrowth beyond AI limits is difficult"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 6,
+    "page": 7,
+    "text": "Practical Improvements\nand SolutionsAllow students to override AI\nsuggestions\nProvide optional advanced content\nAdd “Explore Freely” mode\nCombine AI with teacher guidance\nUpdate AI models regularly\nGive students control over\ndifficulty\nEncourage self-paced exploration\nBalance AI support with freedom"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 7,
+    "page": 8,
+    "text": "AI makes learning personalized based\non student performance\nIt supports slow, average, and fast\nlearners differently\nAI recommendations can sometimes\nlimit freedom and create bias\nA balance between AI guidance and\nstudent choice is necessary\nCONCLUSION"
+  },
+  {
+    "doc_id": "47ee3a9f3c654e12b74caac9a02fd745",
+    "source": "U23CA115_SHADHIYA BEGUM S_Assessment.pdf",
+    "chunk_index": 8,
+    "page": 9,
+    "text": "Thank You"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "--------------------------------------------------------------------------------------------------\nEX.NO: 01                                 Hello World Application\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: hello_world_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(HelloWorldApp());\n\nclass HelloWorldApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Hello World',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Hello World')),\n        body: Center(child: Text('Hello, World!', style: TextStyle(fontSize: 24))),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 1,
+    "page": 1,
+    "text": "body: Center(child: Text('Hello, World!', style: TextStyle(fontSize: 24))),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 02                                 Profile Card UI\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: profile_card_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(ProfileCardApp());"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "ile_card_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(ProfileCardApp()); class ProfileCardApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Profile Card',\n      theme: ThemeData(primarySwatch: Colors.teal),\n      home: Scaffold(\n        appBar: AppBar(title: Text('Profile Card')),\n        body: Center(\n          child: Card(\n            margin: EdgeInsets.all(24),\n            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),\n            child: Padding(\n              padding: EdgeInsets.all(20),\n              child: Row(\n                children: [\n                  CircleAvatar(radius: 40, child: Icon(Icons.person, size: 40)),\n                  SizedBox(width: 16),"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "tar(radius: 40, child: Icon(Icons.person, size: 40)),\n                  SizedBox(width: 16),\n                  Expanded(\n                    child: Column(\n                      mainAxisSize: MainAxisSize.min,\n                      crossAxisAlignment: CrossAxisAlignment.start,\n                      children: [\n                        Text('Alex Johnson', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),\n                        Text('Flutter Developer', style: TextStyle(color: Colors.grey[700])),\n                        SizedBox(height: 8),\n                        Row(children: [Icon(Icons.email, size: 16), SizedBox(width: 6), Text('alex@example.com')])\n                      ],\n                    ),\n                  )\n                ],\n              ),\n            ),"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "),\n                  )\n                ],\n              ),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 3,
+    "page": 1,
+    "text": ")\n                ],\n              ),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 03                                 Counter Application\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: counter_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(CounterApp());\n\nclass CounterApp extends StatefulWidget {\n  @override\n  _CounterAppState createState() => _CounterAppState();\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "erApp extends StatefulWidget {\n  @override\n  _CounterAppState createState() => _CounterAppState();\n} class _CounterAppState extends State<CounterApp> {\n  int _count = 0;\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Counter',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Counter')),\n        body: Center(child: Text('Count: $_count', style: TextStyle(fontSize: 28))),\n        floatingActionButton: Column(\n          mainAxisSize: MainAxisSize.min,\n          children: [\n            FloatingActionButton(\n              heroTag: 'inc',\n              child: Icon(Icons.add),\n              onPressed: () => setState(() => _count++),\n            ),\n            SizedBox(height: 8),\n            FloatingActionButton(\n              heroTag: 'dec',"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "SizedBox(height: 8),\n            FloatingActionButton(\n              heroTag: 'dec',\n              child: Icon(Icons.remove),\n              onPressed: () => setState(() => _count--),\n            )\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 5,
+    "page": 2,
+    "text": "Pressed: () => setState(() => _count--),\n            )\n          ],\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 04                                 Simple Calculator\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: calculator_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(SimpleCalculatorApp());\n\nclass SimpleCalculatorApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Calculator',\n      home: CalculatorPage(),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 6,
+    "page": 2,
+    "text": "ext) {\n    return MaterialApp(\n      title: 'Calculator',\n      home: CalculatorPage(),\n    );\n  }\n} class CalculatorPage extends StatefulWidget {\n  @override\n  _CalculatorPageState createState() => _CalculatorPageState();\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "tends StatefulWidget {\n  @override\n  _CalculatorPageState createState() => _CalculatorPageState();\n} class _CalculatorPageState extends State<CalculatorPage> {\n  final TextEditingController aCtrl = TextEditingController();\n  final TextEditingController bCtrl = TextEditingController();\n  String result = '';\n    void calculate(String op) {\n    final double a = double.tryParse(aCtrl.text) ?? 0;\n    final double b = double.tryParse(bCtrl.text) ?? 0;\n    double r;\n    switch (op) {\n      case '+':\n        r = a + b;\n        break;\n      case '-':\n        r = a - b;\n        break;\n      case '*':\n        r = a * b;\n        break;\n      case '/':\n        r = b == 0 ? double.nan : a / b;\n        break;\n      default:\n        r = 0;\n    }\n    setState(() => result = r.isNaN ? 'Error' : r.toString()"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "ak;\n      default:\n        r = 0;\n    }\n    setState(() => result = r.isNaN ? 'Error' : r.toString());\n  }\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Simple Calculator')),\n      body: Padding(\n        padding: EdgeInsets.all(16),\n        child: Column(\n          children: [\n            TextField(controller: aCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'A')),\n            TextField(controller: bCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'B')),\n            SizedBox(height: 12),\n            Wrap(spacing: 8, children: [\n              ElevatedButton(onPressed: () => calculate('+'), child: Text('+')),\n              ElevatedButton(onPressed: () => calculate('-')"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 7,
+    "page": 2,
+    "text": ") => calculate('+'), child: Text('+')),\n              ElevatedButton(onPressed: () => calculate('-'), child: Text('-')),\n              ElevatedButton(onPressed: () => calculate('*'), child: Text('*')),\n              ElevatedButton(onPressed: () => calculate('/'), child: Text('/')),\n            ]),\n            SizedBox(height: 20),\n            Text('Result: $result', style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 8,
+    "page": 3,
+    "text": "ext('Result: $result', style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 05                                 Login Form\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: login_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(LoginApp());\n\nclass LoginApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(home: LoginPage());\n  }\n}\n\nclass LoginPage extends StatefulWidget {\n  @override\n  _LoginPageState createState() => _LoginPageState();\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 9,
+    "page": 3,
+    "text": "ginPage extends StatefulWidget {\n  @override\n  _LoginPageState createState() => _LoginPageState();\n} class _LoginPageState extends State<LoginPage> {\n  final _formKey = GlobalKey<FormState>();\n  String email = '', password = '';"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "ds State<LoginPage> {\n  final _formKey = GlobalKey<FormState>();\n  String email = '', password = ''; @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Login')),\n      body: Padding(\n        padding: EdgeInsets.all(16),\n        child: Form(\n          key: _formKey,\n          child: Column(\n            children: [\n              TextFormField(\n                decoration: InputDecoration(labelText: 'Email'),\n                validator: (v) => (v == null || !v.contains('@')) ? 'Enter valid email' : null,\n                onSaved: (v) => email = v ?? '',\n              ),\n              TextFormField(\n                decoration: InputDecoration(labelText: 'Password'),\n                obscureText: true,\n                validator: (v) => (v == null"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "elText: 'Password'),\n                obscureText: true,\n                validator: (v) => (v == null || v.length < 6) ? 'Min 6 chars' : null,\n                onSaved: (v) => password = v ?? '',\n              ),\n              SizedBox(height: 12),\n              ElevatedButton(\n                child: Text('Login'),\n                onPressed: () {\n                  if (_formKey.currentState?.validate() ?? false) {\n                    _formKey.currentState?.save();\n                    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Welcome $email')));\n                  }\n                },\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 11,
+    "page": 3,
+    "text": "}\n                },\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 06                                 Todo List Application\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: todo_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(TodoApp());\n\nclass TodoApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => MaterialApp(home: TodoPage());\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "atelessWidget {\n  @override\n  Widget build(BuildContext context) => MaterialApp(home: TodoPage());\n} class TodoPage extends StatefulWidget {\n  @override\n  _TodoPageState createState() => _TodoPageState();\n}\nclass _TodoPageState extends State<TodoPage> {\n  final List<String> items = [];\n  final TextEditingController ctrl = TextEditingController();\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Todo List')),\n      body: Column(\n        children: [\n          Padding(\n            padding: EdgeInsets.all(8),\n            child: Row(children: [\n              Expanded(child: TextField(controller: ctrl, decoration: InputDecoration(hintText: 'Add task'))),\n              IconButton(icon: Icon(Icons.add), onPressed: () { if (ctrl.text.isNotEmp"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "Add task'))),\n              IconButton(icon: Icon(Icons.add), onPressed: () { if (ctrl.text.isNotEmpty) { setState(() { items.add(ctrl.text); ctrl.clear(); }); } })\n            ]),\n          ),\n          Expanded(\n            child: ListView.builder(\n              itemCount: items.length,\n              itemBuilder: (context, i) => Dismissible(\n                key: Key(items[i] + i.toString()),\n                onDismissed: (_) => setState(() => items.removeAt(i)),\n                background: Container(color: Colors.red),\n                child: ListTile(title: Text(items[i])),\n              ),\n            ),\n          )\n        ],\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 13,
+    "page": 4,
+    "text": "title: Text(items[i])),\n              ),\n            ),\n          )\n        ],\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 07                                 Image Gallery\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: gallery_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(GalleryApp());\n\nclass GalleryApp extends StatelessWidget {\n  final List<String> images = List.generate(8, (i) => 'https://picsum.photos/seed/$i/400/400');"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 14,
+    "page": 4,
+    "text": "et {\n  final List<String> images = List.generate(8, (i) => 'https://picsum.photos/seed/$i/400/400'); @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Image Gallery',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Image Gallery')),\n        body: Padding(\n          padding: EdgeInsets.all(8),\n          child: GridView.builder(\n            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, crossAxisSpacing: 8, mainAxisSpacing: 8),\n            itemCount: images.length,\n            itemBuilder: (context, i) => Image.network(images[i], fit: BoxFit.cover),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 15,
+    "page": 4,
+    "text": "xt, i) => Image.network(images[i], fit: BoxFit.cover),\n          ),\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 08                                 Navigation Between Screens\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: navigation_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(NavApp());\n\nclass NavApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Navigation Demo',\n      routes: {\n        '/': (c) => HomeScreen(),\n        '/about': (c) => AboutScreen(),\n      },\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 16,
+    "page": 5,
+    "text": "s: {\n        '/': (c) => HomeScreen(),\n        '/about': (c) => AboutScreen(),\n      },\n    );\n  }\n} class HomeScreen extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => Scaffold(\n    appBar: AppBar(title: Text('Home')),\n    body: Center(\n      child: ElevatedButton(onPressed: () => Navigator.pushNamed(context, '/about'), child: Text('Go to About')),\n    ),\n  );\n}\n\nclass AboutScreen extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => Scaffold(\n    appBar: AppBar(title: Text('About')),\n    body: Center(child: Text('This is the about screen')),\n  );\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 17,
+    "page": 5,
+    "text": "Bar: AppBar(title: Text('About')),\n    body: Center(child: Text('This is the about screen')),\n  );\n} --------------------------------------------------------------------------------------------------\nEX.NO: 09                                 List View with Custom Items\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: custom_list_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(CustomListApp());\n\nclass CustomListApp extends StatelessWidget {\n  final items = List.generate(12, (i) => {'title': 'Item $i', 'subtitle': 'Subtitle $i'});"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 18,
+    "page": 5,
+    "text": "sWidget {\n  final items = List.generate(12, (i) => {'title': 'Item $i', 'subtitle': 'Subtitle $i'}); @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(title: Text('Custom List')),\n        body: ListView.builder(\n          itemCount: items.length,\n          itemBuilder: (context, i) => Card(\n            margin: EdgeInsets.symmetric(horizontal: 8, vertical: 6),\n            child: ListTile(\n              leading: CircleAvatar(child: Text(items[i]['title']!.split(' ').last)),\n              title: Text(items[i]['title']!),\n              subtitle: Text(items[i]['subtitle']!),\n              trailing: Icon(Icons.arrow_forward_ios),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 19,
+    "page": 5,
+    "text": "railing: Icon(Icons.arrow_forward_ios),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n} --------------------------------------------------------------------------------------------------\nEX.NO: 10                                 Bottom Navigation Bar App\nDATE:\n--------------------------------------------------------------------------------------------------\n\n// File: bottom_nav_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(BottomNavApp());\n\nclass BottomNavApp extends StatefulWidget {\n  @override\n  _BottomNavAppState createState() => _BottomNavAppState();\n}"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 20,
+    "page": 6,
+    "text": "p extends StatefulWidget {\n  @override\n  _BottomNavAppState createState() => _BottomNavAppState();\n} class _BottomNavAppState extends State<BottomNavApp> {\n  int _index = 0;\n  final pages = [Center(child: Text('Home', style: TextStyle(fontSize: 24))), Center(child: Text('Search', style: TextStyle(fontSize: 24))), Center(child: Text('Profile', style: TextStyle(fontSize: 24)))];\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        body: pages[_index],\n        bottomNavigationBar: BottomNavigationBar(\n          currentIndex: _index,\n          onTap: (i) => setState(() => _index = i),\n          items: [BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'), BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'), BottomNavi"
+  },
+  {
+    "doc_id": "6e466f8f2aee46bc815643dd2061fafe",
+    "source": "Flutter practical.txt",
+    "chunk_index": 20,
+    "page": 6,
+    "text": "ome), label: 'Home'), BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'), BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile')],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "Creating and Running a\nSampleWinApp2 Windows\nApplication\nPresented by\nShadhiya Begum S\nIII BCA B\nU23CA115\nSFM23645"
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 1,
+    "page": 2,
+    "text": "Windows applications provide a graphical\nuser interface (GUI).\nThey use windows, buttons, labels and text\nboxes.\nExamples include Calculator, Notepad and\nPaint.\nIn this project we create a C# Windows Forms\napplication."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 2,
+    "page": 3,
+    "text": "SDI stands for Single Document\nInterface.\nOnly one document window is active at\na time.\nEach form opens in its own separate\nwindow.\nExample: WordPad is an SDI\napplication."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 3,
+    "page": 4,
+    "text": "This application demonstrates Windows\nForms programming.\nIt performs two main operations.\nCalculate factorial of a number.\nCheck whether a number is prime."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 4,
+    "page": 5,
+    "text": "FirstForm – Main menu form.\nfactorial – Calculates factorial value.\nPrimeNo – Checks if a number is prime.\nUser selects the operation from the\nmain form."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 5,
+    "page": 6,
+    "text": "Add a Label showing 'This is an SDI\nApplication'.\nAdd two RadioButtons.\nCreate Factorial option.\nCheck Prime Number option."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 6,
+    "page": 7,
+    "text": "Start Button – Opens selected form.\nExit Button – Closes the application.\nUser selects an option and clicks Start.\nProgram navigates to factorial or prime\nform."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 7,
+    "page": 8,
+    "text": "User enters a number.\nProgram calculates factorial using a\nloop.\nExample: 5! = 5 × 4 × 3 × 2 × 1 = 120.\nResult is displayed in the result textbox."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 8,
+    "page": 9,
+    "text": "User enters a number.\nProgram checks divisibility of the\nnumber.\nIf divisible by numbers other than 1 and\nitself → not prime.\nOtherwise it is a prime number."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 9,
+    "page": 10,
+    "text": "Start the application.\nMain menu (FirstForm) appears.\nUser selects factorial or prime number.\nCorresponding form opens and displays\nresult."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 10,
+    "page": 11,
+    "text": "Demonstrates basic GUI development\nin C#.\nShows navigation between multiple\nforms.\nImplements factorial and prime number\nalgorithms.\nGood example for beginners learning\nWindows Forms."
+  },
+  {
+    "doc_id": "a631f67310a14e29b5c7785f84122405",
+    "source": "c#_seminar.pdf",
+    "chunk_index": 11,
+    "page": 12,
+    "text": "Q u e s t i o n s"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "[Paragraph 1]\nCreating and Running a SampleWinApp2 Windows Application (C#)\n\n[Paragraph 2]\n1. Starting the Project in Visual Studio 2005\n\n[Paragraph 3]\nStep 1\n\n[Paragraph 4]\nOpen Visual Studio 2005\n\n[Paragraph 5]\nStart → Programs → Microsoft Visual Studio 2005 → Microsoft Visual Studio 2005\n\n[Paragraph 6]\nStep 2\n\n[Paragraph 7]\nCreate a new project\n\n[Paragraph 8]\nFile → New → Project\n\n[Paragraph 9]\nStep 3\n\n[Paragraph 10]\nSelect\n\n[Paragraph 11]\nVisual C# → Windows Application\n\n[Paragraph 12]\nStep 4\n\n[Paragraph 13]\nEnter project name\n\n[Paragraph 14]\nSampleWinApp2\n\n[Paragraph 15]\nClick OK\n\n[Paragraph 16]\nVisual Studio creates a project with Form1.cs\n\n[Paragraph 17]\nStep 5\n\n[Paragraph 18]\nRename Form1.cs to\n\n[Paragraph 19]\nFirstForm.cs\n\n[Paragraph 20]\n2. FirstForm (Main Form)"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 1,
+    "page": 1,
+    "text": "ragraph 18]\nRename Form1.cs to\n\n[Paragraph 19]\nFirstForm.cs\n\n[Paragraph 20]\n2. FirstForm (Main Form) [Paragraph 21]\nThis form allows the user to choose:\n\n[Paragraph 22]\nCalculate factorial\n\n[Paragraph 23]\nCheck prime number\n\n[Paragraph 24]\nControls needed in FirstForm:\n\n[Paragraph 25]\nLabel → “This is an SDI Application”\n\n[Paragraph 26]\nRadioButton1 → Create Factorial\n\n[Paragraph 27]\nRadioButton2 → Check Prime Number\n\n[Paragraph 28]\nButton1 → Start\n\n[Paragraph 29]\nButton2 → Exit\n\n[Paragraph 31]\nFirstForm Code:\n\n[Paragraph 34]\nusing System;\n\n[Paragraph 35]\nusing System.Windows.Forms;\n\n[Paragraph 37]\nnamespace SampleWinApp2\n\n[Paragraph 38]\n{\n\n[Paragraph 39]\npublic partial class FirstForm : Form\n\n[Paragraph 40]\n{\n\n[Paragraph 41]\npublic FirstForm()\n\n[Paragraph 42]\n{"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "artial class FirstForm : Form\n\n[Paragraph 40]\n{\n\n[Paragraph 41]\npublic FirstForm()\n\n[Paragraph 42]\n{ [Paragraph 43]\nInitializeComponent();\n\n[Paragraph 44]\n}\n\n[Paragraph 46]\nprivate void button1_Click(object sender, EventArgs e)\n\n[Paragraph 47]\n{\n\n[Paragraph 48]\nif (radioButton1.Checked == true)\n\n[Paragraph 49]\n{\n\n[Paragraph 50]\nfactorial f1 = new factorial();\n\n[Paragraph 51]\nf1.Show();\n\n[Paragraph 52]\n}\n\n[Paragraph 53]\nelse if (radioButton2.Checked == true)\n\n[Paragraph 54]\n{\n\n[Paragraph 55]\nPrimeNo f2 = new PrimeNo();\n\n[Paragraph 56]\nf2.Show();\n\n[Paragraph 57]\n}\n\n[Paragraph 58]\n}\n\n[Paragraph 60]\nprivate void button2_Click(object sender, EventArgs e)\n\n[Paragraph 61]\n{\n\n[Paragraph 62]\nthis.Close();\n\n[Paragraph 63]\n}\n\n[Paragraph 64]\n}\n\n[Paragraph 65]\n}\n\n[Paragraph 66]\nExplanation"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 3,
+    "page": 1,
+    "text": "62]\nthis.Close();\n\n[Paragraph 63]\n}\n\n[Paragraph 64]\n}\n\n[Paragraph 65]\n}\n\n[Paragraph 66]\nExplanation [Paragraph 67]\nusing System\n\n[Paragraph 68]\nThis allows the program to use basic system functions.\n\n[Paragraph 69]\nusing System.Windows.Forms\n\n[Paragraph 70]\nThis allows us to use Windows Form controls like buttons and labels.\n\n[Paragraph 71]\nnamespace SampleWinApp2\n\n[Paragraph 72]\nGroups the program classes under the project name.\n\n[Paragraph 73]\npublic partial class FirstForm : Form\n\n[Paragraph 74]\nDefines a Windows form called FirstForm.\n\n[Paragraph 75]\nInitializeComponent()\n\n[Paragraph 76]\nLoads all the form controls.\n\n[Paragraph 77]\nbutton1_Click\n\n[Paragraph 78]\nRuns when the Start button is clicked.\n\n[Paragraph 79]\nif (radioButton1.Checked == true)"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "ragraph 78]\nRuns when the Start button is clicked.\n\n[Paragraph 79]\nif (radioButton1.Checked == true) [Paragraph 80]\nChecks if Create Factorial is selected.\n\n[Paragraph 81]\nfactorial f1 = new factorial()\n\n[Paragraph 82]\nCreates a new factorial form.\n\n[Paragraph 83]\nf1.Show()\n\n[Paragraph 84]\nDisplays the factorial form.\n\n[Paragraph 85]\nelse if (radioButton2.Checked == true)\n\n[Paragraph 86]\nChecks if Check Prime Number is selected.\n\n[Paragraph 87]\nPrimeNo f2 = new PrimeNo()\n\n[Paragraph 88]\nCreates a Prime Number form.\n\n[Paragraph 89]\nbutton2_Click\n\n[Paragraph 90]\nRuns when Exit button is clicked.\n\n[Paragraph 91]\nthis.Close()\n\n[Paragraph 92]\nCloses the application.\n\n[Paragraph 93]\n2. Creating Factorial Form\n\n[Paragraph 94]\nAdd new form.\n\n[Paragraph 95]\nSolution Explorer → Right Click Project"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 5,
+    "page": 2,
+    "text": "Factorial Form\n\n[Paragraph 94]\nAdd new form.\n\n[Paragraph 95]\nSolution Explorer → Right Click Project [Paragraph 96]\nAdd → Windows Form\n\n[Paragraph 97]\nName the form\n\n[Paragraph 98]\nfactorial.cs\n\n[Paragraph 100]\nControls in factorial form\n\n[Paragraph 101]\nLabel → Please enter values upto 25\n\n[Paragraph 102]\nLabel → Enter a number\n\n[Paragraph 103]\nTextBox → input number\n\n[Paragraph 104]\nButton → Calculate Factorial\n\n[Paragraph 105]\nButton → Back to FirstForm\n\n[Paragraph 106]\nTextBox → display result\n\n[Paragraph 108]\nFactorial Form Code\n\n[Paragraph 110]\nusing System;\n\n[Paragraph 111]\nusing System.Windows.Forms;\n\n[Paragraph 113]\nnamespace SampleWinApp2\n\n[Paragraph 114]\n{\n\n[Paragraph 115]\npublic partial class factorial : Form\n\n[Paragraph 116]\n{\n\n[Paragraph 117]\npublic factorial()"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 6,
+    "page": 2,
+    "text": "ph 115]\npublic partial class factorial : Form\n\n[Paragraph 116]\n{\n\n[Paragraph 117]\npublic factorial() [Paragraph 118]\n{\n\n[Paragraph 119]\nInitializeComponent();\n\n[Paragraph 120]\n}\n\n[Paragraph 122]\nprivate void button1_Click(object sender, EventArgs e)\n\n[Paragraph 123]\n{\n\n[Paragraph 124]\nint num;\n\n[Paragraph 125]\nlong fact;\n\n[Paragraph 127]\nif (textBox1.Text.Length > 2)\n\n[Paragraph 128]\n{\n\n[Paragraph 129]\nMessageBox.Show(\"Numbers upto 25 are allowed.\");\n\n[Paragraph 130]\n}\n\n[Paragraph 132]\nnum = Int32.Parse(textBox1.Text);\n\n[Paragraph 134]\nfact = 1;\n\n[Paragraph 136]\nwhile (num >= 1 && num <= 25)\n\n[Paragraph 137]\n{\n\n[Paragraph 138]\nfact = fact * num;\n\n[Paragraph 139]\nnum--;\n\n[Paragraph 140]\n}\n\n[Paragraph 142]\ntextBox2.Text = fact.ToString();\n\n[Paragraph 143]\n}"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "139]\nnum--;\n\n[Paragraph 140]\n}\n\n[Paragraph 142]\ntextBox2.Text = fact.ToString();\n\n[Paragraph 143]\n} [Paragraph 145]\nprivate void button2_Click(object sender, EventArgs e)\n\n[Paragraph 146]\n{\n\n[Paragraph 147]\nthis.Close();\n\n[Paragraph 148]\n}\n\n[Paragraph 149]\n}\n\n[Paragraph 150]\n}\n\n[Paragraph 151]\nExplanation\n\n[Paragraph 152]\nint num\n\n[Paragraph 153]\nStores the number entered by the user.\n\n[Paragraph 154]\nlong fact\n\n[Paragraph 155]\nStores the factorial result.\n\n[Paragraph 156]\ntextBox1.Text.Length > 2\n\n[Paragraph 157]\nChecks if the number is too large.\n\n[Paragraph 158]\nMessageBox.Show()\n\n[Paragraph 159]\nDisplays warning message.\n\n[Paragraph 160]\nInt32.Parse(textBox1.Text)\n\n[Paragraph 161]\nConverts textbox input to integer.\n\n[Paragraph 162]\nfact = 1\n\n[Paragraph 163]\nInitial factorial value."
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 8,
+    "page": 3,
+    "text": "nverts textbox input to integer.\n\n[Paragraph 162]\nfact = 1\n\n[Paragraph 163]\nInitial factorial value. [Paragraph 164]\nwhile (num >= 1 && num <= 25)\n\n[Paragraph 165]\nLoop runs until number becomes 1.\n\n[Paragraph 166]\nfact = fact * num\n\n[Paragraph 167]\nMultiplies the numbers.\n\n[Paragraph 168]\nnum--\n\n[Paragraph 169]\nDecreases number step by step.\n\n[Paragraph 170]\ntextBox2.Text = fact.ToString()\n\n[Paragraph 171]\nDisplays factorial result in textbox.\n\n[Paragraph 172]\nbutton2_Click\n\n[Paragraph 173]\nRuns when Back button is clicked.\n\n[Paragraph 174]\nthis.Close()\n\n[Paragraph 175]\nCloses factorial form and returns to main form.\n\n[Paragraph 177]\n3. Creating Prime Number Form\n\n[Paragraph 178]\nAdd new form\n\n[Paragraph 179]\nRight Click Project\n\n[Paragraph 180]\nAdd → Windows Form\n\n[Paragraph 181]\nName it"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 9,
+    "page": 3,
+    "text": "rm\n\n[Paragraph 179]\nRight Click Project\n\n[Paragraph 180]\nAdd → Windows Form\n\n[Paragraph 181]\nName it [Paragraph 182]\nPrimeNo.cs\n\n[Paragraph 183]\nControls needed\n\n[Paragraph 184]\nLabel → Enter a number\n\n[Paragraph 185]\nTextBox → input number\n\n[Paragraph 186]\nButton → Check Prime\n\n[Paragraph 187]\nButton → Back to FirstForm\n\n[Paragraph 189]\nPrime Number Form Code\n\n[Paragraph 191]\nusing System;\n\n[Paragraph 192]\nusing System.Windows.Forms;\n\n[Paragraph 194]\nnamespace SampleWinApp2\n\n[Paragraph 195]\n{\n\n[Paragraph 196]\npublic partial class PrimeNo : Form\n\n[Paragraph 197]\n{\n\n[Paragraph 198]\npublic PrimeNo()\n\n[Paragraph 199]\n{\n\n[Paragraph 200]\nInitializeComponent();\n\n[Paragraph 201]\n}\n\n[Paragraph 203]\nprivate void button1_Click(object sender, EventArgs e)\n\n[Paragraph 204]\n{\n\n[Paragraph 205]\nint num;"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "private void button1_Click(object sender, EventArgs e)\n\n[Paragraph 204]\n{\n\n[Paragraph 205]\nint num; [Paragraph 206]\ndouble prime, sqr_root;\n\n[Paragraph 208]\nprime = Double.Parse(textBox1.Text);\n\n[Paragraph 210]\nsqr_root = Math.Sqrt(prime);\n\n[Paragraph 212]\nfor (num = 2; num <= sqr_root; num++)\n\n[Paragraph 213]\n{\n\n[Paragraph 214]\nif (prime % num == 0)\n\n[Paragraph 215]\n{\n\n[Paragraph 216]\nMessageBox.Show(prime + \" is not a prime number\");\n\n[Paragraph 217]\nbreak;\n\n[Paragraph 218]\n}\n\n[Paragraph 219]\n}\n\n[Paragraph 221]\nif (num > sqr_root)\n\n[Paragraph 222]\n{\n\n[Paragraph 223]\nMessageBox.Show(prime + \" is a prime number\");\n\n[Paragraph 224]\n}\n\n[Paragraph 225]\n}\n\n[Paragraph 227]\nprivate void button2_Click(object sender, EventArgs e)\n\n[Paragraph 228]\n{\n\n[Paragraph 229]\nthis.Close();\n\n[Paragraph 230]\n}"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 11,
+    "page": 3,
+    "text": "ick(object sender, EventArgs e)\n\n[Paragraph 228]\n{\n\n[Paragraph 229]\nthis.Close();\n\n[Paragraph 230]\n} [Paragraph 231]\n}\n\n[Paragraph 232]\n}\n\n[Paragraph 233]\nExplanation\n\n[Paragraph 234]\ndouble prime\n\n[Paragraph 235]\nStores the entered number.\n\n[Paragraph 236]\nDouble.Parse(textBox1.Text)\n\n[Paragraph 237]\nConverts textbox input into number.\n\n[Paragraph 238]\nMath.Sqrt(prime)\n\n[Paragraph 239]\nFinds square root of the number.\n\n[Paragraph 240]\nfor (num = 2; num <= sqr_root; num++)\n\n[Paragraph 241]\nLoop checks divisibility.\n\n[Paragraph 242]\nprime % num == 0\n\n[Paragraph 243]\nChecks if number is divisible.\n\n[Paragraph 244]\nIf divisible\n\n[Paragraph 245]\nNumber is not prime.\n\n[Paragraph 246]\nMessageBox.Show\n\n[Paragraph 247]\nDisplays the result.\n\n[Paragraph 248]\nIf loop finishes without division"
+  },
+  {
+    "doc_id": "c061c9571cf743469c26a7a7f5e4e1a4",
+    "source": "c#_seminar_coding.docx",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "ageBox.Show\n\n[Paragraph 247]\nDisplays the result.\n\n[Paragraph 248]\nIf loop finishes without division [Paragraph 249]\nNumber is prime.\n\n[Paragraph 250]\nbutton2_Click\n\n[Paragraph 251]\nBack button event.\n\n[Paragraph 252]\nthis.Close()\n\n[Paragraph 253]\nCloses Prime form.\n\n[Paragraph 254]\nProgram Flow (Simple)\n\n[Paragraph 255]\nStart Program\n\n[Paragraph 256]\nFirstForm opens\n\n[Paragraph 257]\nUser selects\n\n[Paragraph 258]\nCreate Factorial\n\n[Paragraph 259]\nor\n\n[Paragraph 260]\nCheck Prime Number\n\n[Paragraph 261]\nIf factorial selected\n\n[Paragraph 262]\nFactorial form opens → result shown\n\n[Paragraph 263]\nIf prime selected\n\n[Paragraph 264]\nPrime form opens → result shown\n\n[Paragraph 265]\nUser can return to main form or exit program."
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "// Flutter Mini-Project snippets\n// For each mini-project below: create a new Flutter project (flutter create project_name)\n// then replace lib/main.dart with the matching code block.\n// Each snippet is a single-file minimal example meant for learning and quick testing.\n\n/* -----------------------------------------------------------------------------\n1) Hello World Application\n-----------------------------\t------------------------------------------------ */\n\n// File: hello_world_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(HelloWorldApp());"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 1,
+    "page": 1,
+    "text": "llo_world_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(HelloWorldApp()); class HelloWorldApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Hello World',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Hello World')),\n        body: Center(child: Text('Hello, World!', style: TextStyle(fontSize: 24))),\n      ),\n    );\n  }\n}\n\n/* -----------------------------------------------------------------------------\n2) Profile Card UI\n----------------------------------------------------------------------------- */\n\n// File: profile_card_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(ProfileCardApp());"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "ile_card_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(ProfileCardApp()); class ProfileCardApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Profile Card',\n      theme: ThemeData(primarySwatch: Colors.teal),\n      home: Scaffold(\n        appBar: AppBar(title: Text('Profile Card')),\n        body: Center(\n          child: Card(\n            margin: EdgeInsets.all(24),\n            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),\n            child: Padding(\n              padding: EdgeInsets.all(20),\n              child: Row(\n                children: [\n                  CircleAvatar(radius: 40, child: Icon(Icons.person, size: 40)),\n                  SizedBox(width: 16),"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "tar(radius: 40, child: Icon(Icons.person, size: 40)),\n                  SizedBox(width: 16),\n                  Expanded(\n                    child: Column(\n                      mainAxisSize: MainAxisSize.min,\n                      crossAxisAlignment: CrossAxisAlignment.start,\n                      children: [\n                        Text('Alex Johnson', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),\n                        Text('Flutter Developer', style: TextStyle(color: Colors.grey[700])),\n                        SizedBox(height: 8),\n                        Row(children: [Icon(Icons.email, size: 16), SizedBox(width: 6), Text('alex@example.com')])\n                      ],\n                    ),\n                  )\n                ],\n              ),\n            ),"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 2,
+    "page": 1,
+    "text": "),\n                  )\n                ],\n              ),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 3,
+    "page": 1,
+    "text": ")\n                ],\n              ),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n3) Counter Application\n----------------------------------------------------------------------------- */\n\n// File: counter_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(CounterApp());\n\nclass CounterApp extends StatefulWidget {\n  @override\n  _CounterAppState createState() => _CounterAppState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "erApp extends StatefulWidget {\n  @override\n  _CounterAppState createState() => _CounterAppState();\n} class _CounterAppState extends State<CounterApp> {\n  int _count = 0;\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Counter',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Counter')),\n        body: Center(child: Text('Count: $_count', style: TextStyle(fontSize: 28))),\n        floatingActionButton: Column(\n          mainAxisSize: MainAxisSize.min,\n          children: [\n            FloatingActionButton(\n              heroTag: 'inc',\n              child: Icon(Icons.add),\n              onPressed: () => setState(() => _count++),\n            ),\n            SizedBox(height: 8),\n            FloatingActionButton(\n              heroTag: 'dec',"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 4,
+    "page": 2,
+    "text": "SizedBox(height: 8),\n            FloatingActionButton(\n              heroTag: 'dec',\n              child: Icon(Icons.remove),\n              onPressed: () => setState(() => _count--),\n            )\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 5,
+    "page": 2,
+    "text": "Pressed: () => setState(() => _count--),\n            )\n          ],\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n4) Simple Calculator\n----------------------------------------------------------------------------- */\n\n// File: calculator_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(SimpleCalculatorApp());\n\nclass SimpleCalculatorApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Calculator',\n      home: CalculatorPage(),\n    );\n  }\n}\n\nclass CalculatorPage extends StatefulWidget {\n  @override\n  _CalculatorPageState createState() => _CalculatorPageState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 6,
+    "page": 2,
+    "text": "tends StatefulWidget {\n  @override\n  _CalculatorPageState createState() => _CalculatorPageState();\n} class _CalculatorPageState extends State<CalculatorPage> {\n  final TextEditingController aCtrl = TextEditingController();\n  final TextEditingController bCtrl = TextEditingController();\n  String result = '';"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 7,
+    "page": 2,
+    "text": "ngController();\n  final TextEditingController bCtrl = TextEditingController();\n  String result = ''; void calculate(String op) {\n    final double a = double.tryParse(aCtrl.text) ?? 0;\n    final double b = double.tryParse(bCtrl.text) ?? 0;\n    double r;\n    switch (op) {\n      case '+':\n        r = a + b;\n        break;\n      case '-':\n        r = a - b;\n        break;\n      case '*':\n        r = a * b;\n        break;\n      case '/':\n        r = b == 0 ? double.nan : a / b;\n        break;\n      default:\n        r = 0;\n    }\n    setState(() => result = r.isNaN ? 'Error' : r.toString());\n  }"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 8,
+    "page": 3,
+    "text": "default:\n        r = 0;\n    }\n    setState(() => result = r.isNaN ? 'Error' : r.toString());\n  } @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Simple Calculator')),\n      body: Padding(\n        padding: EdgeInsets.all(16),\n        child: Column(\n          children: [\n            TextField(controller: aCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'A')),\n            TextField(controller: bCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'B')),\n            SizedBox(height: 12),\n            Wrap(spacing: 8, children: [\n              ElevatedButton(onPressed: () => calculate('+'), child: Text('+')),\n              ElevatedButton(onPressed: () => calculate('-'), child: Tex"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 8,
+    "page": 3,
+    "text": "te('+'), child: Text('+')),\n              ElevatedButton(onPressed: () => calculate('-'), child: Text('-')),\n              ElevatedButton(onPressed: () => calculate('*'), child: Text('*')),\n              ElevatedButton(onPressed: () => calculate('/'), child: Text('/')),\n            ]),\n            SizedBox(height: 20),\n            Text('Result: $result', style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 9,
+    "page": 3,
+    "text": "ext('Result: $result', style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n5) Login Form\n----------------------------------------------------------------------------- */\n\n// File: login_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(LoginApp());\n\nclass LoginApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(home: LoginPage());\n  }\n}\n\nclass LoginPage extends StatefulWidget {\n  @override\n  _LoginPageState createState() => _LoginPageState();\n}\n\nclass _LoginPageState extends State<LoginPage> {\n  final _formKey = GlobalKey<FormState>();\n  String email = '', password = '';"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "ds State<LoginPage> {\n  final _formKey = GlobalKey<FormState>();\n  String email = '', password = ''; @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Login')),\n      body: Padding(\n        padding: EdgeInsets.all(16),\n        child: Form(\n          key: _formKey,\n          child: Column(\n            children: [\n              TextFormField(\n                decoration: InputDecoration(labelText: 'Email'),\n                validator: (v) => (v == null || !v.contains('@')) ? 'Enter valid email' : null,\n                onSaved: (v) => email = v ?? '',\n              ),\n              TextFormField(\n                decoration: InputDecoration(labelText: 'Password'),\n                obscureText: true,\n                validator: (v) => (v == null"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 10,
+    "page": 3,
+    "text": "elText: 'Password'),\n                obscureText: true,\n                validator: (v) => (v == null || v.length < 6) ? 'Min 6 chars' : null,\n                onSaved: (v) => password = v ?? '',\n              ),\n              SizedBox(height: 12),\n              ElevatedButton(\n                child: Text('Login'),\n                onPressed: () {\n                  if (_formKey.currentState?.validate() ?? false) {\n                    _formKey.currentState?.save();\n                    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Welcome $email')));\n                  }\n                },\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 11,
+    "page": 3,
+    "text": "}\n                },\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n6) Todo List Application\n----------------------------------------------------------------------------- */\n\n// File: todo_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(TodoApp());\n\nclass TodoApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => MaterialApp(home: TodoPage());\n}\n\nclass TodoPage extends StatefulWidget {\n  @override\n  _TodoPageState createState() => _TodoPageState();\n}\n\nclass _TodoPageState extends State<TodoPage> {\n  final List<String> items = [];\n  final TextEditingController ctrl = TextEditingController();"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "ge> {\n  final List<String> items = [];\n  final TextEditingController ctrl = TextEditingController(); @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Todo List')),\n      body: Column(\n        children: [\n          Padding(\n            padding: EdgeInsets.all(8),\n            child: Row(children: [\n              Expanded(child: TextField(controller: ctrl, decoration: InputDecoration(hintText: 'Add task'))),\n              IconButton(icon: Icon(Icons.add), onPressed: () { if (ctrl.text.isNotEmpty) { setState(() { items.add(ctrl.text); ctrl.clear(); }); } })\n            ]),\n          ),\n          Expanded(\n            child: ListView.builder(\n              itemCount: items.length,\n              itemBuilder: (context, i) => Dismissible("
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 12,
+    "page": 4,
+    "text": "itemCount: items.length,\n              itemBuilder: (context, i) => Dismissible(\n                key: Key(items[i] + i.toString()),\n                onDismissed: (_) => setState(() => items.removeAt(i)),\n                background: Container(color: Colors.red),\n                child: ListTile(title: Text(items[i])),\n              ),\n            ),\n          )\n        ],\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 13,
+    "page": 4,
+    "text": "title: Text(items[i])),\n              ),\n            ),\n          )\n        ],\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n7) Image Gallery\n----------------------------------------------------------------------------- */\n\n// File: gallery_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(GalleryApp());\n\nclass GalleryApp extends StatelessWidget {\n  final List<String> images = List.generate(8, (i) => 'https://picsum.photos/seed/$i/400/400');"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 14,
+    "page": 4,
+    "text": "et {\n  final List<String> images = List.generate(8, (i) => 'https://picsum.photos/seed/$i/400/400'); @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Image Gallery',\n      home: Scaffold(\n        appBar: AppBar(title: Text('Image Gallery')),\n        body: Padding(\n          padding: EdgeInsets.all(8),\n          child: GridView.builder(\n            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, crossAxisSpacing: 8, mainAxisSpacing: 8),\n            itemCount: images.length,\n            itemBuilder: (context, i) => Image.network(images[i], fit: BoxFit.cover),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 15,
+    "page": 4,
+    "text": "xt, i) => Image.network(images[i], fit: BoxFit.cover),\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n8) Navigation Between Screens\n----------------------------------------------------------------------------- */\n\n// File: navigation_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(NavApp());\n\nclass NavApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      title: 'Navigation Demo',\n      routes: {\n        '/': (c) => HomeScreen(),\n        '/about': (c) => AboutScreen(),\n      },\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 16,
+    "page": 5,
+    "text": "s: {\n        '/': (c) => HomeScreen(),\n        '/about': (c) => AboutScreen(),\n      },\n    );\n  }\n} class HomeScreen extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => Scaffold(\n    appBar: AppBar(title: Text('Home')),\n    body: Center(\n      child: ElevatedButton(onPressed: () => Navigator.pushNamed(context, '/about'), child: Text('Go to About')),\n    ),\n  );\n}\n\nclass AboutScreen extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => Scaffold(\n    appBar: AppBar(title: Text('About')),\n    body: Center(child: Text('This is the about screen')),\n  );\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 17,
+    "page": 5,
+    "text": "Bar: AppBar(title: Text('About')),\n    body: Center(child: Text('This is the about screen')),\n  );\n} /* -----------------------------------------------------------------------------\n9) List View with Custom Items\n----------------------------------------------------------------------------- */\n\n// File: custom_list_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(CustomListApp());\n\nclass CustomListApp extends StatelessWidget {\n  final items = List.generate(12, (i) => {'title': 'Item $i', 'subtitle': 'Subtitle $i'});"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 18,
+    "page": 5,
+    "text": "sWidget {\n  final items = List.generate(12, (i) => {'title': 'Item $i', 'subtitle': 'Subtitle $i'}); @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(title: Text('Custom List')),\n        body: ListView.builder(\n          itemCount: items.length,\n          itemBuilder: (context, i) => Card(\n            margin: EdgeInsets.symmetric(horizontal: 8, vertical: 6),\n            child: ListTile(\n              leading: CircleAvatar(child: Text(items[i]['title']!.split(' ').last)),\n              title: Text(items[i]['title']!),\n              subtitle: Text(items[i]['subtitle']!),\n              trailing: Icon(Icons.arrow_forward_ios),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 19,
+    "page": 5,
+    "text": "railing: Icon(Icons.arrow_forward_ios),\n            ),\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n10) Bottom Navigation Bar App\n----------------------------------------------------------------------------- */\n\n// File: bottom_nav_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(BottomNavApp());\n\nclass BottomNavApp extends StatefulWidget {\n  @override\n  _BottomNavAppState createState() => _BottomNavAppState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 20,
+    "page": 6,
+    "text": "p extends StatefulWidget {\n  @override\n  _BottomNavAppState createState() => _BottomNavAppState();\n} class _BottomNavAppState extends State<BottomNavApp> {\n  int _index = 0;\n  final pages = [Center(child: Text('Home', style: TextStyle(fontSize: 24))), Center(child: Text('Search', style: TextStyle(fontSize: 24))), Center(child: Text('Profile', style: TextStyle(fontSize: 24)))];\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        body: pages[_index],\n        bottomNavigationBar: BottomNavigationBar(\n          currentIndex: _index,\n          onTap: (i) => setState(() => _index = i),\n          items: [BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'), BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'), BottomNavi"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 20,
+    "page": 6,
+    "text": "ome), label: 'Home'), BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'), BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile')],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 21,
+    "page": 6,
+    "text": "ttomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile')],\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n11) Theme Switcher (Light/Dark Mode)\n----------------------------------------------------------------------------- */\n\n// File: theme_switcher_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(ThemeSwitcherApp());\n\nclass ThemeSwitcherApp extends StatefulWidget {\n  @override\n  _ThemeSwitcherAppState createState() => _ThemeSwitcherAppState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 22,
+    "page": 6,
+    "text": "s StatefulWidget {\n  @override\n  _ThemeSwitcherAppState createState() => _ThemeSwitcherAppState();\n} class _ThemeSwitcherAppState extends State<ThemeSwitcherApp> {\n  bool dark = false;\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      theme: ThemeData.light(),\n      darkTheme: ThemeData.dark(),\n      themeMode: dark ? ThemeMode.dark : ThemeMode.light,\n      home: Scaffold(\n        appBar: AppBar(title: Text('Theme Switcher')),\n        body: Center(\n          child: SwitchListTile(\n            title: Text('Dark mode'),\n            value: dark,\n            onChanged: (v) => setState(() => dark = v),\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 23,
+    "page": 6,
+    "text": "onChanged: (v) => setState(() => dark = v),\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n12) Form with Multiple Input Types\n----------------------------------------------------------------------------- */\n\n// File: multi_input_form_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(MultiInputFormApp());\n\nclass MultiInputFormApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => MaterialApp(home: MultiInputFormPage());\n}\n\nclass MultiInputFormPage extends StatefulWidget {\n  @override\n  _MultiInputFormPageState createState() => _MultiInputFormPageState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 24,
+    "page": 7,
+    "text": "atefulWidget {\n  @override\n  _MultiInputFormPageState createState() => _MultiInputFormPageState();\n} class _MultiInputFormPageState extends State<MultiInputFormPage> {\n  final _formKey = GlobalKey<FormState>();\n  String name = '';\n  String gender = 'male';\n  bool subscribe = false;\n  DateTime? dob;"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 25,
+    "page": 7,
+    "text": "rmState>();\n  String name = '';\n  String gender = 'male';\n  bool subscribe = false;\n  DateTime? dob; @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('Multi Input Form')),\n      body: Padding(\n        padding: EdgeInsets.all(12),\n        child: Form(\n          key: _formKey,\n          child: ListView(\n            children: [\n              TextFormField(decoration: InputDecoration(labelText: 'Name'), onSaved: (v) => name = v ?? ''),\n              DropdownButtonFormField<String>(value: gender, items: ['male', 'female', 'other'].map((g) => DropdownMenuItem(value: g, child: Text(g))).toList(), onChanged: (v) => setState(() => gender = v ?? gender)),\n              CheckboxListTile(title: Text('Subscribe'), value: subscribe, onChanged: (v) =>"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 25,
+    "page": 7,
+    "text": "nder)),\n              CheckboxListTile(title: Text('Subscribe'), value: subscribe, onChanged: (v) => setState(() => subscribe = v ?? false)),\n              ListTile(\n                title: Text(dob == null ? 'Select DOB' : 'DOB: ${dob!.toLocal().toString().split(' ')[0]}'),\n                trailing: Icon(Icons.calendar_today),\n                onTap: () async {\n                  final d = await showDatePicker(context: context, initialDate: DateTime(2000), firstDate: DateTime(1900), lastDate: DateTime.now());\n                  if (d != null) setState(() => dob = d);\n                },\n              ),\n              SizedBox(height: 10),\n              ElevatedButton(onPressed: () { _formKey.currentState?.save(); ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Saved: $name,"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 25,
+    "page": 7,
+    "text": "rentState?.save(); ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Saved: $name, $gender'))); }, child: Text('Save'))\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 26,
+    "page": 7,
+    "text": "e, $gender'))); }, child: Text('Save'))\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n13) Stopwatch/Timer Application\n----------------------------------------------------------------------------- */\n\n// File: stopwatch_main.dart\nimport 'dart:async';\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(StopwatchApp());\n\nclass StopwatchApp extends StatefulWidget {\n  @override\n  _StopwatchAppState createState() => _StopwatchAppState();\n}\n\nclass _StopwatchAppState extends State<StopwatchApp> {\n  Timer? _timer;\n  int _ms = 0;\n  bool running = false;"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 27,
+    "page": 7,
+    "text": "pwatchAppState extends State<StopwatchApp> {\n  Timer? _timer;\n  int _ms = 0;\n  bool running = false; void _start() {\n    if (running) return;\n    running = true;\n    _timer = Timer.periodic(Duration(milliseconds: 100), (_) => setState(() => _ms += 100));\n  }\n\nvoid _stop() { _timer?.cancel(); running = false; }\n  void _reset() => setState(() => _ms = 0);"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 28,
+    "page": 8,
+    "text": "}\n\nvoid _stop() { _timer?.cancel(); running = false; }\n  void _reset() => setState(() => _ms = 0); @override\n  Widget build(BuildContext context) {\n    final seconds = (_ms / 1000).toStringAsFixed(1);\n    return MaterialApp(\n      home: Scaffold(\n        appBar: AppBar(title: Text('Stopwatch')),\n        body: Center(child: Text('$seconds s', style: TextStyle(fontSize: 48))),\n        floatingActionButton: Row(\n          mainAxisAlignment: MainAxisAlignment.end,\n          children: [\n            FloatingActionButton(onPressed: _start, child: Icon(Icons.play_arrow)),\n            SizedBox(width: 8),\n            FloatingActionButton(onPressed: _stop, child: Icon(Icons.pause)),\n            SizedBox(width: 8),\n            FloatingActionButton(onPressed: _reset, child: Icon(Icons.stop)),"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 28,
+    "page": 8,
+    "text": "x(width: 8),\n            FloatingActionButton(onPressed: _reset, child: Icon(Icons.stop)),\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 29,
+    "page": 8,
+    "text": "ionButton(onPressed: _reset, child: Icon(Icons.stop)),\n          ],\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n14) Weather UI Clone (UI-only)\n----------------------------------------------------------------------------- */\n\n// File: weather_ui_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(WeatherUIApp());"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 30,
+    "page": 8,
+    "text": "weather_ui_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(WeatherUIApp()); class WeatherUIApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(\n      home: Scaffold(\n        body: Container(\n          padding: EdgeInsets.symmetric(horizontal: 24, vertical: 48),\n          decoration: BoxDecoration(gradient: LinearGradient(colors: [Colors.blue.shade700, Colors.blue.shade200], begin: Alignment.topCenter, end: Alignment.bottomCenter)),\n          child: Column(\n            crossAxisAlignment: CrossAxisAlignment.start,\n            children: [\n              Text('San Francisco', style: TextStyle(color: Colors.white, fontSize: 34, fontWeight: FontWeight.bold)),\n              SizedBox(height: 8),\n              Text('Sunny'"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 30,
+    "page": 8,
+    "text": "ze: 34, fontWeight: FontWeight.bold)),\n              SizedBox(height: 8),\n              Text('Sunny', style: TextStyle(color: Colors.white70, fontSize: 20)),\n              SizedBox(height: 24),\n              Row(children: [Icon(Icons.wb_sunny, size: 80, color: Colors.yellow), SizedBox(width: 20), Text('26°C', style: TextStyle(color: Colors.white, fontSize: 56))]),\n              SizedBox(height: 24),\n              Expanded(\n                child: Align(\n                  alignment: Alignment.bottomCenter,\n                  child: Row(\n                    mainAxisAlignment: MainAxisAlignment.spaceBetween,\n                    children: List.generate(5, (i) => Column(\n                      mainAxisSize: MainAxisSize.min,\n                      children: [Text('Mon', style: TextStyle(color: Colo"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 30,
+    "page": 8,
+    "text": "xisSize: MainAxisSize.min,\n                      children: [Text('Mon', style: TextStyle(color: Colors.white)), SizedBox(height: 8), Icon(Icons.wb_cloudy, color: Colors.white), SizedBox(height: 6), Text('${20 + i}°', style: TextStyle(color: Colors.white))],\n                    )),\n                  ),\n                ),\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 31,
+    "page": 8,
+    "text": "),\n                ),\n              )\n            ],\n          ),\n        ),\n      ),\n    );\n  }\n} /* -----------------------------------------------------------------------------\n15) BMI Calculator\n----------------------------------------------------------------------------- */\n\n// File: bmi_main.dart\nimport 'package:flutter/material.dart';\n\nvoid main() => runApp(BMIApp());\n\nclass BMIApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) => MaterialApp(home: BMICalcPage());\n}\n\nclass BMICalcPage extends StatefulWidget {\n  @override\n  _BMICalcPageState createState() => _BMICalcPageState();\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 32,
+    "page": 9,
+    "text": "age extends StatefulWidget {\n  @override\n  _BMICalcPageState createState() => _BMICalcPageState();\n} class _BMICalcPageState extends State<BMICalcPage> {\n  final TextEditingController wCtrl = TextEditingController();\n  final TextEditingController hCtrl = TextEditingController();\n  String result = '';\n\nvoid calc() {\n    final double w = double.tryParse(wCtrl.text) ?? 0; // kg\n    final double h = double.tryParse(hCtrl.text) ?? 0; // cm\n    if (w <= 0 || h <= 0) { setState(() => result = 'Enter valid values'); return; }\n    final bmi = w / ((h / 100) * (h / 100));\n    setState(() => result = 'BMI: ${bmi.toStringAsFixed(1)}');\n  }"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 33,
+    "page": 9,
+    "text": "mi = w / ((h / 100) * (h / 100));\n    setState(() => result = 'BMI: ${bmi.toStringAsFixed(1)}');\n  } @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(title: Text('BMI Calculator')),\n      body: Padding(\n        padding: EdgeInsets.all(16),\n        child: Column(\n          children: [\n            TextField(controller: wCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'Weight (kg)')),\n            TextField(controller: hCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'Height (cm)')),\n            SizedBox(height: 12),\n            ElevatedButton(onPressed: calc, child: Text('Calculate')),\n            SizedBox(height: 12),\n            Text(result, style: TextStyle(fontSize: 20))\n          ]"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 33,
+    "page": 9,
+    "text": "SizedBox(height: 12),\n            Text(result, style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n}"
+  },
+  {
+    "doc_id": "b57ea2a3f751432cbd186e8a8467ee91",
+    "source": "Flutter Mini-Project snippets.txt",
+    "chunk_index": 34,
+    "page": 9,
+    "text": "Text(result, style: TextStyle(fontSize: 20))\n          ],\n        ),\n      ),\n    );\n  }\n} // End of snippets\n\n/* NOTE:\n - These are intentionally minimal single-file apps. For production or larger learning projects, split into files & add state management as needed.\n - For network images (Image.network) ensure Android/iOS permissions if necessary.\n - Replace package imports if you split code into multiple files.\n*/"
+  },
+  {
+    "doc_id": "75970ea2113142ff8575e4dab9008ad7",
+    "source": "resume.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "E X T R A \t C U R R I C U L A R \t\t\nD E C L A R A T I O N \t T E C H N I C A L \t E X P E R T I S E \t\nP R O J E C T S\nS t u d e n t \t I n t e r n \t i n \t B r i l l e r s y s , \tCoimbatore[2025-Present ]\nP y t h o n \t F u l l \t S t a c k \t i n \t T 4 T E Q ,Trichy[2025-2026 ]\nW e b \t D e v e l o p m e n t \t i n \t N u l l \t C l a s s , \tTrichy \t[2024–2025]\nI d e a t i o n \t t o \t p r o t o t y p e in Holy Cross College, Trichy [2023–2024] Where I can utilize my programming skills, problem-solving ability, and eagerness to learn new technologies. \nA C A D E M I C B A C K G R O U N D \n \n1st Prize for P r o f i c i e n c y I n C o m p u t e r A p p l i c a t i o n s, E n g l i s h and Tamil(2024-2025)\nAwarded for B e s t P e r f o r m e r of II BCA B[2024-2025]S H A D H I Y A \t B E G U M \t S \t\n| \nW"
+  },
+  {
+    "doc_id": "75970ea2113142ff8575e4dab9008ad7",
+    "source": "resume.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": ")\nAwarded for B e s t P e r f o r m e r of II BCA B[2024-2025]S H A D H I Y A \t B E G U M \t S \t\n| \nWEBSITE |Responsive page \nI N D U S T R Y \t E X P O S U R E \t\nC E R T I F I C A T I O N S \t+91-9042558563|shadhiyabegum18@gmail.comLinkedIn| GitHub|woraiyur, Trichy \nP R O F E S S I O N A L \t S U M M A R Y \t\nA motivated and enthusiastic Computer Application graduate seeking an entry-level position in an IT company \n \n•Programming  Languages:C,C++, Python,Java\n• Database:SQL, My SQL,MongoDB, Postgresql \n• Web Technologies:HTML, CSS, JavaScript, Bootstrap, Django\n• Tools: VSCode, Pycharm, GitHub, Microsoft Office\n \nI K S P r e s i d e n t: As the President of the Indian Knowledge System (IKS), I was responsible\nfor leading, coordinating, and managing the club’s activities.Implemented video rewa"
+  },
+  {
+    "doc_id": "75970ea2113142ff8575e4dab9008ad7",
+    "source": "resume.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "was responsible\nfor leading, coordinating, and managing the club’s activities.Implemented video rewards system, limited downloads, and premium upgrade via Razorpay.\n       Added theme switching and OTP verification based on user time and location \n      G i t H u b L i n k:https://github.com/shadhiya-begum-s/youtube_internship.git\nDeveloped a responsive web application using Django and MongoDB with full CRUD operations and RESTful API\nintegration. Designed a user-friendly interface using HTML, CSS, JavaScript, and Bootstrap\n       G i t H u b L i n k:https://github.com/shadhiya-begum-s/InternHub.git\nI here by declare that all the information provided in this resume is true and accurate to the best of \nmy knowledge. Certified in D a t a A n a l y t i c s [Novitech], Business Analytics with"
+  },
+  {
+    "doc_id": "75970ea2113142ff8575e4dab9008ad7",
+    "source": "resume.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "e best of \nmy knowledge. Certified in D a t a A n a l y t i c s [Novitech], Business Analytics with Excel[Simplilearn]\nCompleted S W A Y A M course on S o f t S k i l l s D e v e l o p m e n t and C o n s u m e r B e h a v i o u r\nCertified in D o m e s t i c I T H e l p d e s k A t t e n d a n t under P M K V Y scheme\nParticipated in Model Presentation -Mathematics Across Disciplines,national cyber security conclave,\nInternational Digital Innovation summit, Emerging Trends and research Frontiers in AlInternship T racker\nH O N O R S \t & A C H I E V E M E N T SB a c h e l o r \t o f \t C o m p u t e r \t A p p l i c a t i o n s \t \t  Holy Cross College(Autonomous),Trichy   CGPA:9.25/10.0.    2023-2026\nH S C - C o m p u t e r \t S c i e n c e \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t Methodist Gi"
+  },
+  {
+    "doc_id": "75970ea2113142ff8575e4dab9008ad7",
+    "source": "resume.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "-2026\nH S C - C o m p u t e r \t S c i e n c e \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t \t Methodist Girls Higher Sec School ,Trichy   Percentage:96%  2022-2023"
+  },
+  {
+    "doc_id": "bec3e538ca2f4cae970d056738b21e95",
+    "source": "Index.html",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "BCA Chatbot - Holy Cross College\n\nBCA Chatbot - Holy Cross College\n\nDuration\n\nScholarship\n\nExam\n\nPlacement\n\n➤\n\nSuccess is yours! 🌟\n \nFear\n\nFailure\n\nHard Work\n\nSuccess"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 0,
+    "page": 1,
+    "text": "RESUM E BUILDING AND\nOPTIM IZATION\nSHADHIYA BEGUM  S, \nIII BCA B, \nU23CA115"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 1,
+    "page": 2,
+    "text": "CONTENT\n1. Introduction\n2. Importance of a Resume\n3. Steps in Preparing a Resume\n4. Personal Information\n5. Career Objective\n6. Educational Qualifications\n7. Skills\n8. Projects / Experience\n9. Achievements and Certifications\n10. Resume Optimization\n11. Common Mistakes to Avoid\n12. Conclusion"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 2,
+    "page": 3,
+    "text": "A resume is a professional document that\nsummarizes a person’s skills, education, and\nexperience.\nIt is usually the first document employers review\nwhen selecting candidates.\nA well-structured resume helps recruiters\nquickly understand a candidate’s qualifications\nand abilities.\nA clear and well-designed resume increases the\nchances of getting shortlisted for job interviews.\nINTRODUCTION"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 3,
+    "page": 4,
+    "text": "IM PORTANCE OF A\nRESUM EIM PORTANCE OF A\nRESUM E\nCreates a first impression for recruiters.\nHighlights qualifications and\nachievements.\nHelps employers shortlist candidates.\nShows professional skills and experience\nclearly."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 4,
+    "page": 5,
+    "text": "Add personal information\nWrite a career objective\nMention educational\nqualifications\nList technical and soft skills\nInclude projects or work\nexperience\nAdd achievements and\ncertifications\nReview and optimize the\nresume\nSTEPS IN PREPARING A\nRESUM E"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 5,
+    "page": 6,
+    "text": "PERSONAL INFORMATION PERSONAL INFORM ATION\nInclude basic details such as:\nFull Name\nPhone Number\nEmail Address\nLocation\nLinkedIn / Portfolio (optional)\nUse  a professional email address."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 6,
+    "page": 7,
+    "text": "CAREER OBJECTIVE\nA short statement describing your career\ngoals.\nExplains how your skills can contribute to the\norganization.\nExample:\n“To obtain a challenging position where I can\napply my technical skills and grow\nprofessionally.”"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 7,
+    "page": 8,
+    "text": "EDUCATIONAL\nQUALIFICATIONS\nSALES SALES\nThis section presents the academic background of the\ncandidate.\nIt includes details about the courses studied and\ninstitutions attended.\nInformation such as institution name, year of completion,\nand percentage or CGPA can be mentioned.\nThis helps employers understand the educational\nqualifications and knowledge level of the candidate."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 8,
+    "page": 9,
+    "text": "SKILLS\nThe skills section highlights the abilities and\ncompetencies that are relevant to the job.\nIt usually includes both technical skills and soft skills.\nTechnical skills refer to knowledge of programming\nlanguages, software tools, or technologies used in a\nparticular field.\nSoft skills refer to personal qualities such as\ncommunication, teamwork, and problem-solving abilities\nthat help in working effectively with others."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 9,
+    "page": 10,
+    "text": "PROJECTS / EXPERIENCE\nSALES SALES\nThis section includes academic projects, internships, or\nany work experience related to the field of study.\nIt highlights the practical knowledge and skills gained\nthrough real or academic work.\nBriefly describe the project title and the main work\ndone.\nIncluding projects or experience helps employers\nunderstand the candidate’s ability to apply knowledge\nin practical situations."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 10,
+    "page": 11,
+    "text": "ACHIEVEM ENTS AND\nCERTIFICATIONS\nThis section highlights the accomplishments and\nadditional qualifications of the candidate.\nIt includes academic achievements and certifications\nfrom online courses.\nParticipation in workshops, seminars, or technical\ncompetitions can also be mentioned.\nThis shows the candidate’s interest in learning and skill\ndevelopment."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 11,
+    "page": 12,
+    "text": "Resume optimization means\nimproving the resume to make it more\neffective and professional.\nUse clear headings and bullet points\nto present information neatly.\nHighlight important skills and\nachievements relevant to the job.\nKeep the resume short, accurate, and\nfree from grammar or spelling errors.\nRESUM E OPTIM IZATION"
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 12,
+    "page": 13,
+    "text": "COM M ON M ISTAKES TO\nAVOID\nSALES SALES\nAvoid including irrelevant or unnecessary information in\nthe resume.\nDo not write long paragraphs; use clear bullet points\ninstead.\nEnsure the resume is free from spelling and grammar\nmistakes.\nUse a professional email address and provide correct\ninformation."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 13,
+    "page": 14,
+    "text": "CONCLUSION\nA resume is an important document for job\nseekers.\nIt helps present skills, education, and\nachievements in a clear and organized way.\nA well-structured resume creates a positive\nimpression on employers.\nProper resume building and optimization increase\nthe chances of getting job opportunites."
+  },
+  {
+    "doc_id": "7bd690e68784412aa432986e587b7461",
+    "source": "Resume Building and Optimization_20260313_224511_0000.pdf",
+    "chunk_index": 14,
+    "page": 15,
+    "text": "THANK YOU"
+  }
+]

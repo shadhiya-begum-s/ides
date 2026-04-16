@@ -1,0 +1,30 @@
+streamlit
+python-dotenv
+
+# Embeddings & RAG
+sentence-transformers
+transformers
+torch
+openai
+
+# Vector Search
+faiss-cpu
+numpy
+rank-bm25
+
+# Document Processing
+PyPDF2
+pdfplumber
+python-docx
+beautifulsoup4
+
+# OCR
+pytesseract
+Pillow
+pdf2image
+
+# Database (optional / future)
+psycopg2-binary
+
+# PDF Generation (reports / citations)
+reportlab
